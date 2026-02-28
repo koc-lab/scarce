@@ -100,23 +100,23 @@
         <mxCell id="raLwoMR9o5ZD-bfYXpvI-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="$$\mathbf{X}_{\text{train}} \in \mathbb{R}^{N_\text{train}\times M}$$" vertex="1">
           <mxGeometry height="30" width="60" x="120" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="raLwoMR9o5ZD-bfYXpvI-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$ \mathbf{x}_0 $$" vertex="1">
-          <mxGeometry height="30" width="60" x="50" y="85" as="geometry" />
+        <mxCell id="raLwoMR9o5ZD-bfYXpvI-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$ \mathbf{x}_0 $$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="85" as="geometry" />
         </mxCell>
-        <mxCell id="raLwoMR9o5ZD-bfYXpvI-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$ \mathbf{x}_1 $$" vertex="1">
-          <mxGeometry height="30" width="60" x="50" y="105" as="geometry" />
+        <mxCell id="raLwoMR9o5ZD-bfYXpvI-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$ \mathbf{x}_1 $$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="105" as="geometry" />
         </mxCell>
-        <mxCell id="raLwoMR9o5ZD-bfYXpvI-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$ \mathbf{x}_2 $$" vertex="1">
-          <mxGeometry height="30" width="60" x="50" y="125" as="geometry" />
+        <mxCell id="raLwoMR9o5ZD-bfYXpvI-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$ \mathbf{x}_2 $$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="125" as="geometry" />
         </mxCell>
         <mxCell id="raLwoMR9o5ZD-bfYXpvI-54" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="80" y="180" as="sourcePoint" />
-            <mxPoint x="80" y="160" as="targetPoint" />
+            <mxPoint x="69.84" y="180" as="sourcePoint" />
+            <mxPoint x="69.84" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="raLwoMR9o5ZD-bfYXpvI-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$ \mathbf{x}_{\text{N_\text{train}}} $$" vertex="1">
-          <mxGeometry height="30" width="60" x="250" y="115" as="geometry" />
+        <mxCell id="raLwoMR9o5ZD-bfYXpvI-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$\mathbf{x}_{N_\text{train}}$$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
