@@ -239,58 +239,58 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qW6T9gTBkOdEgJvWuk2N-64" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" value="" vertex="1">
-          <mxGeometry height="10" width="10" x="640" y="159.92000000000002" as="geometry" />
+          <mxGeometry height="10" width="10" x="640" y="154.92000000000002" as="geometry" />
         </mxCell>
         <mxCell id="qW6T9gTBkOdEgJvWuk2N-65" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="" vertex="1">
-          <mxGeometry height="10" width="10" x="640" y="230.48" as="geometry" />
+          <mxGeometry height="10" width="10" x="640" y="225.48" as="geometry" />
         </mxCell>
         <mxCell id="qW6T9gTBkOdEgJvWuk2N-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;$$ \text{Cell-Gene Graph} $$&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="290" y="102.31" as="geometry" />
         </mxCell>
         <mxCell id="qW6T9gTBkOdEgJvWuk2N-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#CCCCCC,#EDEDED);gradientColor=none;strokeColor=light-dark(#000000,#000000);dashed=1;dashPattern=8 8;opacity=20;strokeWidth=3;perimeterSpacing=3;" value="" vertex="1">
-          <mxGeometry height="150" width="550" x="270" y="107.7" as="geometry" />
+          <mxGeometry height="150" width="550" x="270" y="107.69999999999999" as="geometry" />
         </mxCell>
         <mxCell id="qW6T9gTBkOdEgJvWuk2N-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$ \text{Labeled Cell Node} $$&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="610" y="134.92" as="geometry" />
+          <mxGeometry height="30" width="60" x="610" y="129.92" as="geometry" />
         </mxCell>
         <mxCell id="qW6T9gTBkOdEgJvWuk2N-69" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="725" y="168.95999999999998" as="sourcePoint" />
-            <mxPoint x="785" y="168.95999999999998" as="targetPoint" />
+            <mxPoint x="725" y="163.95999999999998" as="sourcePoint" />
+            <mxPoint x="785" y="163.95999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qW6T9gTBkOdEgJvWuk2N-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$ \text{Gene Node} $$&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="615" y="200.48" as="geometry" />
+          <mxGeometry height="30" width="60" x="615" y="195.48" as="geometry" />
         </mxCell>
         <mxCell id="qW6T9gTBkOdEgJvWuk2N-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;$$ \text{Cell-Cell Graph} $$&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="455" y="102.7" as="geometry" />
         </mxCell>
         <mxCell id="qW6T9gTBkOdEgJvWuk2N-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$ \text{Weak Connection} $$&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="730" y="139.58999999999997" as="geometry" />
+          <mxGeometry height="30" width="60" x="730" y="134.58999999999997" as="geometry" />
         </mxCell>
         <mxCell id="qW6T9gTBkOdEgJvWuk2N-73" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="725" y="199.58999999999997" as="sourcePoint" />
-            <mxPoint x="785" y="199.58999999999997" as="targetPoint" />
+            <mxPoint x="725" y="194.58999999999997" as="sourcePoint" />
+            <mxPoint x="785" y="194.58999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qW6T9gTBkOdEgJvWuk2N-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$ \text{Strong Connection} $$&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="730" y="169.58999999999997" as="geometry" />
+          <mxGeometry height="30" width="60" x="730" y="164.58999999999997" as="geometry" />
         </mxCell>
         <mxCell id="qW6T9gTBkOdEgJvWuk2N-75" edge="1" parent="1" style="endArrow=blockThin;html=1;strokeWidth=2;rounded=0;startArrow=none;startFill=0;endFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="725" y="234.37" as="sourcePoint" />
-            <mxPoint x="785" y="234.37" as="targetPoint" />
+            <mxPoint x="725" y="229.37" as="sourcePoint" />
+            <mxPoint x="785" y="229.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qW6T9gTBkOdEgJvWuk2N-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$ \text{Directed Connection} $$&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="730" y="202.97999999999996" as="geometry" />
+          <mxGeometry height="30" width="60" x="730" y="197.97999999999996" as="geometry" />
         </mxCell>
         <mxCell id="Enox_NXMTL8gqOkVrjk9-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;dashed=1;" value="" vertex="1">
-          <mxGeometry height="10" width="10" x="640" y="195.48" as="geometry" />
+          <mxGeometry height="10" width="10" x="640" y="190.48" as="geometry" />
         </mxCell>
         <mxCell id="Enox_NXMTL8gqOkVrjk9-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$ \text{Unlabeled Cell Node} $$&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="615" y="169.59" as="geometry" />
+          <mxGeometry height="30" width="60" x="615" y="164.59" as="geometry" />
         </mxCell>
         <mxCell id="vHWZLglEljgulchB1Iew-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
