@@ -700,6 +700,9 @@
             <mxPoint x="650" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rR2HLUMEPlTbtwru5ws4-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;$$\mathbf{H}^{(1)}_{\text{GNN},gene}$$&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="373.07" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
