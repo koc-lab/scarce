@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" version="29.6.3">
   <diagram name="Page-1" id="R1D9cO2M0bPrIbBEd-fb">
-    <mxGraphModel dx="599" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="845" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -750,7 +750,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rR2HLUMEPlTbtwru5ws4-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\mathbf{P}_\text{overall}$$" vertex="1">
-          <mxGeometry height="30" width="60" x="485" y="540" as="geometry" />
+          <mxGeometry height="30" width="60" x="476.82" y="580" as="geometry" />
         </mxCell>
         <mxCell id="rR2HLUMEPlTbtwru5ws4-89" edge="1" parent="1" source="ZNxHfNWXIb5DbrH2Zspb-18" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;dashed=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -761,8 +761,8 @@
         <mxCell id="rR2HLUMEPlTbtwru5ws4-91" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="500" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="rR2HLUMEPlTbtwru5ws4-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+" vertex="1">
-          <mxGeometry height="15" width="20" x="506" y="512.5" as="geometry" />
+        <mxCell id="rR2HLUMEPlTbtwru5ws4-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;+&lt;/font&gt;" vertex="1">
+          <mxGeometry height="17.5" width="30" x="501.82" y="511.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
