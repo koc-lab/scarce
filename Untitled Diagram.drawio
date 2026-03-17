@@ -712,32 +712,23 @@
         <mxCell id="rR2HLUMEPlTbtwru5ws4-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;$$\mathbf{H}^{(2)}_{\text{GNN},cell}$$&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="760" y="375" as="geometry" />
         </mxCell>
-        <mxCell id="rR2HLUMEPlTbtwru5ws4-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="120" width="80" x="835" y="350" as="geometry" />
-        </mxCell>
         <mxCell id="rR2HLUMEPlTbtwru5ws4-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\mathbf{P}_\text{GNN}$$" vertex="1">
-          <mxGeometry height="30" width="60" x="845" y="350" as="geometry" />
+          <mxGeometry height="30" width="60" x="840" y="350" as="geometry" />
         </mxCell>
         <mxCell id="rR2HLUMEPlTbtwru5ws4-66" parent="1" style="whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" value="$$p_1$$" vertex="1">
-          <mxGeometry height="20" width="20" x="290" y="520" as="geometry" />
+          <mxGeometry height="20" width="20" x="863" y="375" as="geometry" />
         </mxCell>
         <mxCell id="rR2HLUMEPlTbtwru5ws4-69" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="$$p_2$$" vertex="1">
-          <mxGeometry height="20" width="20" x="290" y="540" as="geometry" />
-        </mxCell>
-        <mxCell id="rR2HLUMEPlTbtwru5ws4-74" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="590" y="430" as="sourcePoint" />
-            <mxPoint x="640" y="380" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry height="20" width="20" x="863" y="395" as="geometry" />
         </mxCell>
         <mxCell id="rR2HLUMEPlTbtwru5ws4-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="$$\ldots$$" vertex="1">
-          <mxGeometry height="30" width="58" x="272" y="580" as="geometry" />
+          <mxGeometry height="30" width="58" x="845" y="415" as="geometry" />
         </mxCell>
         <mxCell id="rR2HLUMEPlTbtwru5ws4-77" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="$$p_K$$" vertex="1">
-          <mxGeometry height="20" width="20" x="290" y="610" as="geometry" />
+          <mxGeometry height="20" width="20" x="864" y="445" as="geometry" />
         </mxCell>
-        <mxCell id="rR2HLUMEPlTbtwru5ws4-78" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="$$p_3$$" vertex="1">
-          <mxGeometry height="20" width="20" x="290" y="560" as="geometry" />
+        <mxCell id="rR2HLUMEPlTbtwru5ws4-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;arcSize=35;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="120" width="64" x="836" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
