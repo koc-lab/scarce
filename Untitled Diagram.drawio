@@ -644,7 +644,7 @@
           <mxGeometry height="140" width="960" x="229.59" y="685" as="geometry" />
         </mxCell>
         <mxCell id="iFkhSxuMF7umyIehrwLQ-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 25px; color: rgb(0, 0, 153);&quot;&gt;1. Graph Construction&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="290" x="61.59" y="170.00000000000003" as="geometry" />
+          <mxGeometry height="30" width="290" x="61.59" y="175.00000000000003" as="geometry" />
         </mxCell>
         <mxCell id="iFkhSxuMF7umyIehrwLQ-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="&lt;font color=&quot;#000099&quot; face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 153); font-size: 25px;&quot;&gt;2. Training&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="290" x="61.59" y="480" as="geometry" />
