@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" version="29.6.3">
   <diagram name="Page-1" id="R1D9cO2M0bPrIbBEd-fb">
-    <mxGraphModel dx="1242" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1242" dy="883" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -634,13 +634,13 @@
         <mxCell id="iFkhSxuMF7umyIehrwLQ-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$ \cdot \text{Accuracy} = \frac{1}{N_{\text{test}}} \sum_{i=1}^{N_{\text{test}}} \mathbf{1}\!\left[\hat{y}_i = y_i\right] $$&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="754.77" y="770" as="geometry" />
         </mxCell>
-        <mxCell id="iFkhSxuMF7umyIehrwLQ-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" value="" vertex="1">
+        <mxCell id="iFkhSxuMF7umyIehrwLQ-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;opacity=10;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="370" width="960" x="229.59" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="iFkhSxuMF7umyIehrwLQ-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;strokeWidth=3;fillColor=#bac8d3;strokeColor=#23445d;" value="" vertex="1">
+        <mxCell id="iFkhSxuMF7umyIehrwLQ-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;opacity=10;strokeWidth=3;fillColor=#bac8d3;strokeColor=#23445d;" value="" vertex="1">
           <mxGeometry height="190" width="960" x="230" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="iFkhSxuMF7umyIehrwLQ-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;" value="" vertex="1">
+        <mxCell id="iFkhSxuMF7umyIehrwLQ-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;opacity=10;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;" value="" vertex="1">
           <mxGeometry height="140" width="960" x="229.59" y="685" as="geometry" />
         </mxCell>
         <mxCell id="iFkhSxuMF7umyIehrwLQ-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 25px; color: rgb(0, 0, 153);&quot;&gt;1. Graph Construction&lt;/font&gt;" vertex="1">
