@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" version="29.6.4">
   <diagram name="Page-1" id="R1D9cO2M0bPrIbBEd-fb">
-    <mxGraphModel dx="1009" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1283" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -614,7 +614,7 @@
           <mxGeometry height="30" width="60" x="748.77" y="659" as="geometry" />
         </mxCell>
         <mxCell id="iFkhSxuMF7umyIehrwLQ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=20;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="284" width="984" x="165" y="286" as="geometry" />
+          <mxGeometry height="286" width="984" x="165" y="284" as="geometry" />
         </mxCell>
         <mxCell id="iFkhSxuMF7umyIehrwLQ-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
           <mxGeometry height="222" width="984" x="165" y="58" as="geometry" />
@@ -623,13 +623,13 @@
           <mxGeometry height="148" width="985" x="165" y="574" as="geometry" />
         </mxCell>
         <mxCell id="iFkhSxuMF7umyIehrwLQ-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;color: rgb(0, 0, 153); font-size: 20px;&quot;&gt;1. Graph Construction&lt;/font&gt;" vertex="1">
-          <mxGeometry height="102" width="193" x="160" y="18" as="geometry" />
+          <mxGeometry height="102" width="193" x="159" y="19" as="geometry" />
         </mxCell>
         <mxCell id="iFkhSxuMF7umyIehrwLQ-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;font color=&quot;#000099&quot; face=&quot;Lucida Console&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 153);&quot;&gt;2. Training&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="161" x="132" y="281" as="geometry" />
         </mxCell>
         <mxCell id="iFkhSxuMF7umyIehrwLQ-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;font color=&quot;#000099&quot; face=&quot;Lucida Console&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 153);&quot;&gt;3. Inference&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="290" x="70" y="569" as="geometry" />
+          <mxGeometry height="30" width="290" x="70" y="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
