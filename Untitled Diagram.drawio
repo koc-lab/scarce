@@ -623,13 +623,13 @@
           <mxGeometry height="148" width="985" x="165" y="574" as="geometry" />
         </mxCell>
         <mxCell id="iFkhSxuMF7umyIehrwLQ-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;color: rgb(0, 0, 153); font-size: 20px;&quot;&gt;1. Graph Construction&lt;/font&gt;" vertex="1">
-          <mxGeometry height="102" width="193" x="168.59" y="23" as="geometry" />
+          <mxGeometry height="102" width="193" x="160" y="18" as="geometry" />
         </mxCell>
         <mxCell id="iFkhSxuMF7umyIehrwLQ-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;font color=&quot;#000099&quot; face=&quot;Lucida Console&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 153);&quot;&gt;2. Training&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="161" x="132" y="286" as="geometry" />
+          <mxGeometry height="30" width="161" x="132" y="281" as="geometry" />
         </mxCell>
         <mxCell id="iFkhSxuMF7umyIehrwLQ-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;font color=&quot;#000099&quot; face=&quot;Lucida Console&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 153);&quot;&gt;3. Inference&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="290" x="71.59" y="583" as="geometry" />
+          <mxGeometry height="30" width="290" x="70" y="569" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
