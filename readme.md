@@ -1,3 +1,7 @@
-This repository contains the source code for our paper "scARCE: Graph Enhanced Transformer Encoder for Cell-Type Annotation", which has been submitted to IEEE Transactions on Signal and Information Processing over Networks.
+# scARCE: Graph Enhanced Transformer Encoder for Single-Cell Annotation
 
-The details will come soon. For now, you can check the exact code from https://github.com/kocemir/scarce .
+This repository contains the source code for our paper "scARCE: Graph Enhanced Transformer Encoder for Single-Cell Annotation", which is currently under review at *IEEE Transactions on Signal and Information Processing over Networks*.
+
+The code for reproducing the main results of the paper is available at https://github.com/kocemir/scarce.
+
+Detailed results for all datasets, ablation studies, and figures will be released in this repository soon.
